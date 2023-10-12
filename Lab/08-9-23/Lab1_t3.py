@@ -1,0 +1,11 @@
+st = {2,3,4,5,6,7}
+print(st)
+print("removing 2")
+st.remove(2)
+print(st)
+print("discarding 2")
+st.discard(2)
+print(st)
+print("removing 2")
+st.remove(2)
+print(st)
